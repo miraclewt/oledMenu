@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="OLED" targetName="OLED.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MinGW-STM32" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW-STM32" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19f1995c-c1e5-4358-9f03-c99f6ba85b2e" name="Changes" comment="工程创建">
+      <change afterPath="$PROJECT_DIR$/.clang-tidy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/OLED.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OCD_OLED.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists_template.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/RTE_Components.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/gpio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_timebase_tim.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/syscalls.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/sysmem.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Startup/startup_stm32f103c6tx.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103x6.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_armcc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_armclang.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_compiler.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_gcc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_iccarm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_version.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_armv8mbl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_armv8mml.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm0.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm0plus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm23.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm3.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm33.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm4.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm7.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_sc000.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_sc300.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/mpu_armv7.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/mpu_armv8.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Include/tz_context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/board.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/cmd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/msh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/msh.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/shell.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/shell.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_dirent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_errno.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_fcntl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_fdset.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_ioctl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_signal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/libc/libc_stat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdbg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdebug.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rthw.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtlibc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtthread.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/libcpu/arm/cortex-m3/context_gcc.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/libcpu/arm/cortex-m3/cpuport.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/clock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/components.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/idle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/irq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/kservice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/mem.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/object.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/scheduler.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/thread.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/timer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OLED.ioc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RT-Thread/rtconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STM32F103C6TX_FLASH.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/cache-v2-3db0dd666faa574e92d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/cmakeFiles-v1-a3aa79492d8ccc8652dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/codemodel-v2-0d3f58ab49929fe6b62a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/index-2025-02-07T14-10-31-0602.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/target-OLED.elf-Debug-1e65829f1571a3f09fa5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.cmake/api/v1/reply/toolchains-v1-3ba0ae26e1192632e7b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeASMCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/gpio.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/stm32f1xx_hal_timebase_tim.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/syscalls.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/sysmem.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Src/system_stm32f1xx.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Core/Startup/startup_stm32f103c6tx.s.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/board.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/cmd.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/msh.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/shell.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/libcpu/arm/cortex-m3/context_gcc.S.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/libcpu/arm/cortex-m3/cpuport.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/clock.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/components.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/idle.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/irq.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/kservice.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/mem.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/object.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/scheduler.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/thread.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir/Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/timer.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/clion-Debug-MinGW-STM32-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/OLED.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/OLED.elf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/OLED.hex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/OLED.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug-mingw-stm32/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-MinGW-STM32" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2siP2tsASaw0pLXr0Vpta9XhDwC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/General/2_SW/01_STMworkspace/OLED",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD OLED">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OLED.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OLED" TARGET_NAME="OLED.elf" CONFIG_NAME="Debug-MinGW-STM32" RUN_TARGET_PROJECT_NAME="OLED" RUN_TARGET_NAME="OLED.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.OLED.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD OLED" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f1995c-c1e5-4358-9f03-c99f6ba85b2e" name="Changes" comment="" />
+      <created>1738935217560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738935217560</updated>
+      <workItem from="1738935227255" duration="3088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工程创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="工程创建" />
+  </component>
+</project>

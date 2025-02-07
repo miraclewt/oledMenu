@@ -1,0 +1,3 @@
+D:/General/2_SW/01_STMworkspace/OLED/cmake-build-debug-mingw-stm32/CMakeFiles/OLED.elf.dir
+D:/General/2_SW/01_STMworkspace/OLED/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+D:/General/2_SW/01_STMworkspace/OLED/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir
